@@ -5,4 +5,4 @@ Task 2 :
 
 Hello world\!
 
-![][project images\1.png]
+![][project images/1.png]
